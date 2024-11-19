@@ -29,7 +29,7 @@ This project analyzes the geographic distribution of hospitals and XR2 robot dep
 | `EDA.ipynb`      | Python notebook used for Exploritory Data Analysis.            |
 | `Cleaning.ipynb`      | Python notebook used for preprocessing and data integration.            |
 | **tableau/**              | Tableau dashboard file for visualizations.                             |
-| `Hospital_Analysis.twbx`     | Contains heat maps, ranking charts, and recommendation summaries.       |
+| `Hospital_and_XR2_Deployment_Analysis.twbx`     | Contains heat maps, ranking charts, and recommendation summaries.       |
 | **README.md**             | This file, explaining the project structure and usage.                  |
 
 ---
