@@ -22,9 +22,9 @@ This project analyzes the geographic distribution of hospitals and XR2 robot dep
 | **Folder/File**           | **Description**                                                         |
 |---------------------------|-------------------------------------------------------------------------|
 | **data/**                 | Contains input datasets used in the analysis.                          |
-| `Cleaned_Hospital_DF.xlsx`        | Hospital data with geographic locations and rankings.                  |
-| `XR2_Locations_DF.xlsx`        | XR2 deployment locations with geographic coordinates.                  |
-| `Recommendations_Table.xlsx`| Final recommendations table summarizing insights and suggestions.      |
+| `Cleaned_Hospital_DF.csv`        | Hospital data with geographic locations and rankings.                  |
+| `XR2_Locations_DF.csv`        | XR2 deployment locations with geographic coordinates.                  |
+| `Recommendations_Table.csv`| Final recommendations table summarizing insights and suggestions.      |
 | **notebooks/**            | Jupyter Notebook for data cleaning and exploratory data analysis (EDA). |
 | `EDA.ipynb`      | Python notebook used for Exploritory Data Analysis.            |
 | `Cleaning.ipynb`      | Python notebook used for preprocessing and data integration.            |
