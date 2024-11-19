@@ -44,7 +44,8 @@ This project analyzes the geographic distribution of hospitals and XR2 robot dep
      - LinkedIn
      - Google News
      - Omnicell investor pages.
-
+3. **Tableau Viz:**
+   - Link: [Hospital_and_XR2_Deployment_Analysis](https://public.tableau.com/views/Hospital_and_XR2_Deployment_Analysis/MappingOpportunities?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 ---
 
 ## **Tools Used**
